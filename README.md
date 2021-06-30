@@ -1,7 +1,9 @@
-# My personal url for a binder badge
+# Binder badge for my personal repository.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ellyssa-Sherman/r_with_python/HEAD)
 
 
+
+# Below is the text and code from the original README.md file.
 # R + Python Binder Example
 
 This repo builds on the [r binder](https://github.com/binder-examples/r) and [jupyter lab binder](https://github.com/binder-examples/jupyterlab) and is complementary to the [multi-language-demo binder](https://github.com/binder-examples/multi-language-demo) with examples on using both R and python in both Jupyter Lab and RStudio.

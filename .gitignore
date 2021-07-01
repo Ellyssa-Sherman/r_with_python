@@ -1,3 +1,13 @@
+#Added gitignore files
+.bash_logout
+.bashrc
+.conda/
+.config/
+.jupyter-server-log.txt
+.local/
+.npm/
+.profile
+
 # OS generated files
 .DS_Store
 .DS_Store?

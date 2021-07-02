@@ -8,6 +8,8 @@ dependencies:
     - matplotlib
     - scikitlearn
     - numpy
+    - ipykernel
+    - bash_kernel
   - r-dpylyr
   - r-ggplot2
   - r-reshape2

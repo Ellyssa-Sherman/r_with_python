@@ -1,4 +1,16 @@
 dependencies:
-  - matplotlib
-  - numpy
-  - pandas
+  - python=3.7.7
+  - r-base=3.5.3
+  - pip
+  - pip:
+    - plotly
+    - pandas
+    - matplotlib
+    - scikitlearn
+    - numpy
+  - r-dpylyr
+  - r-ggplot2
+  - r-reshape2
+  - r-tidyverse
+  - r-plotly
+  - stringr

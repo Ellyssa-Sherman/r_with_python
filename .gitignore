@@ -1,3 +1,15 @@
+# Hidden files for clean up
+.bash_history
+.bash_logout
+.bashrc
+.conda/
+.config/
+.ipython/
+.jupyter-server-log.txt
+.local/
+.npm/
+.profile
+
 # OS generated files
 .DS_Store
 .DS_Store?
